@@ -10,6 +10,7 @@ Libraries used: numpy, pandas, matplotlib, seaborn
               Tools: Jupyter, Python
 ### Data Wrangling:
 Data Wrangling is referred to as the process through which data is transformed and mapped from one form of raw data to another with the aim of making it more suitable for a range of uses such as analyzing it.
+
 2.	Boston Housing Dataset
 Create Histogram, ScatterPlot, Calculate mean, medium values, Add new column, Find missing values, Create data series.
 Libraries used: numpy, pandas, matplotlib
@@ -18,10 +19,10 @@ Tools: Jupyter, Python
 3.	Reading tabular data from a web page and creating dataframes
 Preparing the data from Wikipedia
 Libraries used: BeautifulSoup for web scraping and parsing HTML or XML content, pandas
-Insert data into a SQL Lite database
-Handling outliers and missing data The Data Wrangling Workshop: Activity 6.01, page 309
-# 1. The Data Wrangling Workshop: Activity 7.01, page 388: Extracting the top 100 E-books from Gutenberg
-# Building your own movie database by reading an API
+  Insert data into a SQL Lite database
+  Handling outliers and missing data
+  Extracting the top 100 E-books from Gutenberg
+  Building your own movie database by reading an API
 
 
 ### Data Mining/Machine Learning:
