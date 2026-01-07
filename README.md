@@ -9,9 +9,8 @@ The central question for this analysis was to understand the impact of various f
 
 https://github.com/jyoti-dave/Data-Science-Portfolio/tree/main/project-1-DataAnalysis
 
-
-
 Libraries used: numpy, pandas, matplotlib, seaborn
+
 Tools: Jupyter, Python
 
 ### Data Wrangling:
