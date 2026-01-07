@@ -5,9 +5,15 @@ This is my data science portfolio page I have created on whatever I have learned
 ### Data Exploration and Analysis:
 Data Exploration and Analysis (EDA) is literally the first step in understanding raw data by employing statistical analysis to uncover hidden patterns, identify anomalies in data, validate assumptions, and understand the relationships within the data. It also helps to understand the true nature of the data by identifying areas of potential problems, which can be due to missing values or outliers. EDA essentially helps to ask questions of the data
 1.	Impact of COVID-19 on Work Habit, Stress Level Productivity Change, and Health Issues
-The central question for this analysis was to understand the impact of various factors, such as Stress Level, Productivity Change, and Health Issues, on Hours Worked Per Day. This inquiry aimed to explore whether higher stress levels or productivity changes were associated with longer work hours, and whether health issues play a significant role in determining how much time an individual spends working per day.	
+The central question for this analysis was to understand the impact of various factors, such as Stress Level, Productivity Change, and Health Issues, on Hours Worked Per Day. This inquiry aimed to explore whether higher stress levels or productivity changes were associated with longer work hours, and whether health issues play a significant role in determining how much time an individual spends working per day.
+
+https://github.com/jyoti-dave/Data-Science-Portfolio/tree/main/project-1-DataAnalysis
+
+
+
 Libraries used: numpy, pandas, matplotlib, seaborn
-              Tools: Jupyter, Python
+Tools: Jupyter, Python
+
 ### Data Wrangling:
 Data Wrangling is referred to as the process through which data is transformed and mapped from one form of raw data to another with the aim of making it more suitable for a range of uses such as analyzing it.
 
