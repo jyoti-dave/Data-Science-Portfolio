@@ -1,7 +1,12 @@
 # Data-Science-Portfolio
 This is my data science portfolio page I have created on whatever I have learned during my masters in DataScience.
 
-All the exampples given in the repositories are written in Python using Jupyter tool.
+All the examples given in the repositories are written in Python using Jupyter tool and Anaconda.
+
+You can download Anaconda from here.
+
+https://www.anaconda.com/download
+
 
 ## Content
 ### Data Exploration and Analysis:
