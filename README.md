@@ -120,6 +120,7 @@ The purpose of this analysis is to highlight the rapid rise in Kia/Hyundai theft
 https://github.com/jyoti-dave/Data-Science-Portfolio/tree/main/project13-DataPresentation-KiaTheft
 
 #### 14. Story Title: Addressing Rising Airport Complaints in the U.S.
+The purpose of this story is not just to inform, but to provoke operational and policy action. Complaint trends—broken down by airport, time, and issue type—highlight urgent hotspots in customer dissatisfaction.
 
 https://github.com/jyoti-dave/Data-Science-Portfolio/tree/main/project14-DataPresentation-AirportComplaint
 
