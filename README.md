@@ -133,3 +133,10 @@ https://github.com/jyoti-dave/Data-Science-Portfolio/tree/main/project14-DataPre
 Generative AI (GenAI): Creates new, original material such as text, images, software code, and audio, as opposed to traditional AI tasks, such as classifying and predicting, and is the application of AI to generation, utilizing deep AI models such as the Transformer and GAN, to produce creative, natural-sounding language, as seen in ChatGPT and Dall-e.
  Support Car Dealership using AI – Fine-Tuned OpenAI Model & Streamlit Application
 Build your first model using OpenAI, Fine Tuning Model, The app allows users to generate car-sales content instantly using the fine-tuned model
+
+### 16. Predicting Hospital Readmission Risk Using Machine Learning
+Machine Learning-Based Prediction of 30-Day Hospital Readmission Risk to Improve Patient Care and Reduce Healthcare Costs
+
+The key aim of this particular project is the analysis of the ability of machine learning algorithms to make accurate predictions about hospitalizations within the first 30 days of discharge. Apart from this, the aim is also to identify the key factors that exert the most significant influence on the likelihood of hospitalization. Another aim is the examination of whether the information produced with the aid of predictive models can be used in an effective manner for implementing proactive care approaches that are likely to prevent unnecessary hospitalizations and improve the quality of care.
+
+https://github.com/jyoti-dave/Data-Science-Portfolio/tree/main/project16-Predicting%20Hospital%20Readmission%20Risk%20Using%20Machine%20Learning
